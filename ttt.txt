@@ -1,1 +1,1 @@
-hai ssss
+print("hello world")
